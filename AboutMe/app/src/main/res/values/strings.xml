@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Profile Hoàng Sang</string>
+    <string name="name">Hoàng Sang 17Th+</string>
+    <string name="profile_image">Profille Image</string>
+    <string name="bio">My name is Pham Hoang Sang and I\'m from Ban Me Thuot city.
+        I\’m 20 years old and I\’m studying at the Viet Korea University of Information and Communication Technology.
+        There\’re 5 people in my family in Ban Me Thuot city. Now, I\’m living in Da Nang city.\n\n
+I\’ve got lots of hobbies and interests. I like playing games with my friends and reading books.
+        I like to read topics of finance and self-help. I also do a lot of sport - I particularly enjoy jogging and karate.
+        I\’m a member of the karate club at my university. I\'m also interested in the stock market.\n\n
+I\’m a funny person who always makes others laugh. I\’m sometimes a bit talkative. I\’m also a very optimistic person. I always think things will get better
+    \n\n\n</string>
+    <string name="email">What is your Email?</string>
+    <string name="done">Done</string>
+</resources>
